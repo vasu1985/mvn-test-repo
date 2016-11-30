@@ -6,4 +6,11 @@
   <artifactId>gigya-sdk</artifactId>
   <version>3.2.1</version>
   <description>POM was created from install:install-file</description>
+  <dependencies>
+  	<dependency>
+    <groupId>org.json</groupId>
+    <artifactId>json</artifactId>
+    
+</dependency>
+<dependencies>
 </project>
